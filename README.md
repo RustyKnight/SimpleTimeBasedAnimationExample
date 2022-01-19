@@ -17,6 +17,8 @@ For example, look at the animation above. The dot starts at the halfway point, b
 
 The above example also allows you to "pause" the running animation and when it resumes, it will continue as if nothing happened.
 
+Time based animations are also easier to expand and implement other, more advanced, effects, like bound and easement
+
 # Requirements
 
 ![Java](https://img.shields.io/badge/Java-16.0.2-orange) ![Netbeans](https://img.shields.io/badge/Netbeans-12.4-orange)
